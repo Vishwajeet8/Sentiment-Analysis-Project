@@ -18,3 +18,20 @@ Model evaluation
 
 Amazon Fine Food Reviews
 https://www.kaggle.com/datasets/snap/amazon-fine-food-reviews
+
+For Installation
+pip install -r requirements.txt
+
+▶ Run Project
+
+Open sentiment_analysis.ipynb and run all cells.
+
+📊 Results
+
+Accuracy: ~91%
+
+🧠 Algorithms Used
+
+TF-IDF
+
+XGBoost
